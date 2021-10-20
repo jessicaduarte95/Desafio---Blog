@@ -15,6 +15,7 @@ O projeto tinha como objetivo criar um Blog a partir de um padrão estabelecido.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/jessicaduarte95/Desafio---Blog/blob/main/Mobile01.PNG)
+<br/>
 ![Mobile 2](https://github.com/jessicaduarte95/Desafio---Blog/blob/main/Mobile02.PNG)
 
 # Tecnologias utilizadas
